@@ -1,4 +1,1 @@
-File Index     Input File                    Output File                   Input File Path                                                                 Output File Path                                                                
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-0              C:\Users\kc00109\Downloads\ALL SEGMENTS 2.TXTOutput_File_0.csv             C:\Users\kc00109\Downloads\ALL SEGMENTS 2.TXT                                   Output_File_0.csv                                                               
-1              w                             Output_File_1.csv             w                                                                               Output_File_1.csv                                                               
+
